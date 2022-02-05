@@ -1,6 +1,7 @@
 # Hi there 👋
 
-![Sorting Algorithm Preview](https://github.com/alyssadicarlo/alyssadicarlo/blob/main/header.png?raw=true)
+![Header Image](https://github.com/alyssadicarlo/alyssadicarlo/blob/main/header.png?raw=true)
+![Codewars](https://www.codewars.com/users/alyssa.dicarlo/badges/small)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyssa-dicarlo/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alyssadicarlo)
